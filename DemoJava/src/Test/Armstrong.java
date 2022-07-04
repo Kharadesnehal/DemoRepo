@@ -1,5 +1,6 @@
 package Test;
 public class Armstrong {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,5 +19,10 @@ public class Armstrong {
 				System.out.println(num+"is not an Armstrong number");
 	}
 	
+	void show()
+	{
+		System.out.println("number is not an Armstrong number");
+
+	}
 
 }
